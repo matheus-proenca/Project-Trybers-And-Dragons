@@ -26,6 +26,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   ---
 
   ⚠️ **Dicas Importantes** ⚠️:
+  gZmFjaWxpdGHDp8OjbyBkYSB0dXJtYSwgcG9yIERNIHB
 
   - Durante a execução dos testes, serão criados arquivos `.js` no repositório do projeto dentro da pasta `dist`:
 
