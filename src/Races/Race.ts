@@ -18,7 +18,7 @@ abstract class Race {
     return this.dex
   }
 
-  static createdRacesInstances(): number {
+  public static createdRacesInstances(): number {
     throw new Error("Not implemented")
   }
   abstract get maxLifePoints(): number;
